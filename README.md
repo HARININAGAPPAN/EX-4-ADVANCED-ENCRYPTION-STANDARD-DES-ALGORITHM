@@ -43,3 +43,8 @@ return 0;
 ![Screenshot 2024-10-09 153315](https://github.com/user-attachments/assets/e651a295-da7b-4a33-9bce-aa1eb68f6f51)
 
 ## RESULT: 
+AES Encryption:
+The AES algorithm successfully encrypts the given plaintext into ciphertext and decrypts it back into plaintext using a symmetric key and initialization vector.
+DES Encryption:
+The DES algorithm successfully encrypts the given plaintext into ciphertext and decrypts it back into plaintext using a symmetric key.
+
