@@ -25,7 +25,7 @@ for (int i = 0; i < input_len; i++) {
 }
 
 int main() {
-char url[] = "https://lms2.cse.saveetha.in";
+char url[] = "HARINI N";
 char key[] = "secretkey"; 
 
 printf("Original URL: %s\n", url);
@@ -38,9 +38,11 @@ printf("Decrypted URL: %s\n", url);
 
 return 0;
 }
+
 ```
 ## OUTPUT:
-![Screenshot 2024-10-09 153315](https://github.com/user-attachments/assets/e651a295-da7b-4a33-9bce-aa1eb68f6f51)
+![Screenshot 2024-10-16 125218](https://github.com/user-attachments/assets/6789aa99-22d8-474e-894d-0dbef9e9005f)
+
 
 ## RESULT: 
 AES Encryption:
